@@ -1,0 +1,5 @@
+email=xxx@qq.com
+domain_name=yx.xxx.xxx
+ip_type=A
+gloabl_api=xxx
+zone_id=xxx
